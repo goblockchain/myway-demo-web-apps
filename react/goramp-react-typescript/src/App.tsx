@@ -48,10 +48,7 @@ function App() {
         >
           Tutorial: integração com GoRamp em apenas 3 linhas de código
         </a>
-        <goramp-button
-          publicKey="fb80f3e5d8e8b412d447b1908b6dd9f115eecc9be53ec97e"
-          paymentId="909e12ee-5281-11ee-863a-461660f348f1"
-        >
+        <goramp-button publicKey="fb80f3e5d8e8b412d447b1908b6dd9f115eecc9be53ec97e">
           <button
             style={{
               border: "none",
