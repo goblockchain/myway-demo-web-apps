@@ -8,15 +8,15 @@ declare global {
       "goramp-button": {
         publicKey: string;
         paymentId?: string;
-        amount?: string | number;
+        amount?: string;
         baseCurrency?: string;
         network?: string;
         paymentMethod?: string;
         redirectUrl?: string;
         walletAddress?: string;
-        frameWidth?: string | number;
-        frameHeight?: string | number;
-        frameZIndex?: string | number;
+        frameWidth?: string;
+        frameHeight?: string;
+        frameZIndex?: string;
         children: React.ReactNode;
       };
     }
