@@ -8,7 +8,7 @@
 
 ## Parâmetros
 
-O elemento `<goramp-button>` recebe parâmetros orbiagtórios e opcionais, sendo possível pré-configurar os valores, moedas, meio de pagamento, endereço da carteira, URL de redirecionamento e o tamanho e z-index do iframe gerado pelo GoRamp Web SDK.
+O elemento `<goramp-button>` recebe parâmetros obrigatórios e opcionais, sendo possível pré-configurar os valores, moedas, meio de pagamento, endereço da carteira, URL de redirecionamento e o tamanho e z-index do iframe gerado pelo GoRamp Web SDK.
 
 Os valores disponíveis de baseCurrency e network são disponibilizados neste endpoint: https://myway-api.goblockchain.io/api
 
